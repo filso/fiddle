@@ -16,7 +16,6 @@ module.exports = function(config) {
       'bower_components/angular-route/angular-route.js',
       'bower_components/angular-animate/angular-animate.js',
       'bower_components/angular-cookies/angular-cookies.js',
-      'http://www.busuu.com/js/busuuajax/restws/user_locales_1.0',
 
       'bower_components/angular-ui-bootstrap-bower/ui-bootstrap.js',
       "bower_components/lodash/dist/lodash.js",

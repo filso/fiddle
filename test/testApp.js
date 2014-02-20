@@ -1,4 +1,4 @@
-angular.module('testApp', ['busuuApp', 'testApp.mockDataHTTP'])
+angular.module('testApp', ['app', 'testApp.mockDataHTTP'])
 	.config(function($provide) {
 		$provide.value('$element', function() {
 

@@ -6,7 +6,6 @@ angular.module('app', ['app.filters', 'app.services', 'app.directives', 'app.ani
   'ngCookies', 'app.templates'
 ]).config(function($httpProvider) {
   $httpProvider.defaults.withCredentials = true;
-  // Disable full page view tracking, i.e. http://www.busuu.com/dashboard#/learning_unit/62439 will only report '/learning_unit/62439' as a page and full not page
 
 }).run(function($rootScope, $location, $log) {
 
