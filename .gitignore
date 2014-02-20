@@ -1,0 +1,11 @@
+*.sublime-project
+*.sublime-workspace
+.sass-cache/
+.tmp/
+dist/
+coverage/
+app/bower_components/
+node_modules/
+/app/cache/
+/app/scripts/locales/
+/app/scripts/templates.js

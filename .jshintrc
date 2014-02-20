@@ -1,0 +1,34 @@
+{
+  "quotmark": false,
+  "globals": {
+    "$": false,
+    "angular": false,
+    "Zenbox": false,
+    "_": false,
+    "_kmq": false,
+    "_gaq": false,
+    "trackEvent": false,
+    "docCookies": false,
+    "Pusher": false,
+
+
+    "describe"   : false,
+    "it"         : false,
+    "before"     : false,
+    "beforeEach" : false,
+    "after"      : false,
+    "afterEach"  : false,
+    "describe": false,
+    "xdescribe": false,
+    "jasmine": false,
+
+    "module": false,
+    "inject": false,
+    "mockParams": false
+
+  },
+  
+  "indent": 2
+
+
+}
